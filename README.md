@@ -32,4 +32,11 @@ Once visualizations are ready, they are integrated to frontend where the end use
 
 ### **Screenshots**
 
+![](https://github.com/ayushi424/CrimeRateAnalysis/blob/main/screenshots/home.png)
+
+
+![](https://github.com/ayushi424/CrimeRateAnalysis/blob/main/screenshots/overall.png)
+
+
+![](https://github.com/ayushi424/CrimeRateAnalysis/blob/main/screenshots/arson.png)
 
